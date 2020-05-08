@@ -9,5 +9,6 @@ This is a test.
 This is some improvement made on the `feature-a` branch.
 
 This is some improvement made on the `feature-b` branch.
+And some other improvement on the `feature-b` branch.
 
 This is some other improvement made on the `feature-a` branch.
