@@ -2,7 +2,7 @@
 
 Hello world!
 
-This is an error introduced on the `feature-a` branch.
+This is a fix introduced on the `feature-a` branch.
 
 This is a test.
 
